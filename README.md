@@ -1,4 +1,4 @@
-# IT an Kreyòl
+# Teknoloji an Kreyòl
 
 > Teknoloji klè. An kreyòl. Pou tout moun.
 > Clear technology education in Haitian Creole, built in public.
@@ -10,19 +10,22 @@
 
 ## Sa n ap bati / What we are building
 
-`IT an Kreyòl` is an educational TikTok series that explains practical information technology in Haitian Creole. The repository is also a working project-management portfolio: every major artifact—from the charter and work breakdown structure to the risk register and evaluation plan—is visible and connected to the work.
+`Teknoloji an Kreyòl` is an educational TikTok series that explains practical information technology in Haitian Creole. The repository is also a working project-management portfolio: every major artifact—from the charter and work breakdown structure to the risk register and evaluation plan—is visible and connected to the work.
 
-The first release is deliberately simple: **30 beginner-focused videos on 30 consecutive days**. Audience-performance analytics will not be evaluated during those 30 days. After video 30, the project moves into a defined measurement and review phase.
+The first release is deliberately simple: **30 beginner-focused videos on 30 consecutive days, October 12 through November 10, 2026**. During those 30 days, the project records only whether each planned episode was posted. Audience, workflow, quality, and exception data are not collected for analysis until after video 30.
 
 This is a learning project, not a source of personalized legal, financial, medical, or security advice. Security demonstrations must use test accounts and sanitized data.
 
 ## Current status
 
 - Phase: initiation and planning
-- Release target: 30 videos on 30 consecutive days
-- Audience hypothesis: Haitian Creole-speaking beginners, including people in Haiti and the diaspora
+- Release target: October 12–November 10, 2026; 30 videos on 30 consecutive days
+- Audience baseline: Haitian Creole-speaking beginners aged roughly 16+, in Haiti and the diaspora
+- Creator capacity: 8–12 hours per week; sample-based feasibility test still pending
+- Production inventory: Nikon Z50, laptop, professional lighting, and background; audio/editor/storage path still pending
+- Review model: structured creator self-review for Release 1; no independent approval role
 - Delivery approach: stage-gated project governance with a Kanban content-production flow
-- Performance-measurement status: **not started; blackout applies on challenge days 1–30**
+- Measurement status: **not started; only a binary posted flag may be recorded on challenge Days 1–30**
 - License: not yet selected; until a license is added, reuse rights are not granted
 
 See the live [project status](PROJECT_STATUS.md), [30-day roadmap](docs/04-roadmap.md), [Release 1 milestone](https://github.com/edcadet10/it-an-kreyol/milestone/1), and [working issue backlog](https://github.com/edcadet10/it-an-kreyol/issues).
@@ -60,7 +63,7 @@ flowchart LR
     P --> M[Measured after Day 30]
 ```
 
-Only two videos may be in `Script` through `QA` at once. Before Day 1, at least seven videos should be in `Scheduled` or an equivalent ready-to-post state. Details are in the [methodology](docs/02-methodology.md).
+Only two videos may be in `Script` through `QA` at once during preparation. Before Day 1, at least seven videos should be in `Scheduled` or an equivalent ready-to-post state. During Days 1–30, workflow-state reporting pauses and only the daily posted flag is updated. Details are in the [methodology](docs/02-methodology.md).
 
 ## Repository structure
 
@@ -86,7 +89,7 @@ Raw video, private participant information, credentials, and unpublished analyti
 3. Verify technical and security claims against primary sources.
 4. Manually review captions, pronunciation, on-screen text, and examples.
 5. Never display real passwords, private messages, account details, IP addresses, or personal data.
-6. During days 1–30, publish consistently and do not optimize from performance analytics.
+6. During Days 1–30, record only whether the planned episode was posted; do not collect audience or process data.
 7. Correct material errors even during the analytics blackout; safety outranks experiment purity.
 
 ## Contributing
@@ -95,6 +98,6 @@ Feedback from Haitian Creole speakers, learners, educators, and IT practitioners
 
 ## Source policy
 
-The project prefers primary sources such as standards bodies, government cyber guidance, official platform documentation, and original technical documentation. Haitian Creole terminology begins with established usage and the [MIT-Haiti STEM glossary](https://haiti.mit.edu/glossaryglose/), but that glossary describes itself as dynamic rather than prescriptive; audience and expert feedback remain part of quality review.
+The project prefers primary sources such as standards bodies, government cyber guidance, official platform documentation, and original technical documentation. Haitian Creole terminology begins with established usage and the [MIT-Haiti STEM glossary](https://haiti.mit.edu/glossaryglose/), but that glossary describes itself as dynamic rather than prescriptive; later audience and sourced contributor feedback may challenge the creator's terminology choices.
 
 Research used to design the project is recorded in the [evidence register](research/evidence-register.md).

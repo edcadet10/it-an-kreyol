@@ -41,5 +41,5 @@ Use three invented file cards and arrows. Do not delete a real file or reveal pr
 
 ## Review flags
 
-- Security/technical reviewer approval required.
+- Creator security/technical review approval required; hold the episode if the recovery/deletion nuance is uncertain.
 - Do not promise that 3-2-1 eliminates loss or that every cloud-sync product behaves alike.

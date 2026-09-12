@@ -2,7 +2,7 @@
 
 ## Working identity
 
-- Name: **IT an Kreyòl**
+- Name: **Teknoloji an Kreyòl**
 - Working promise: **Teknoloji klè. An kreyòl. Pou tout moun.**
 - Episode label: `Jou 01/30 · E01`
 - Tone: warm, direct, curious, practical, never condescending or fear-based
@@ -28,7 +28,7 @@ This is a default, not a platform law. Hook styles and visuals are pre-labeled s
 - Reuse the simplest chosen term consistently within the episode.
 - Prefer a short explanation over an unfamiliar invented translation.
 - Add disputed or evolving terms to `data/terminology-log.csv`.
-- Have a human reviewer check spoken and written text.
+- Complete a separate creator language/caption check of spoken and written text; invite sourced external feedback when available.
 
 ## Visual pattern
 
@@ -77,4 +77,4 @@ Raw/media files stay in private storage, not Git.
 - Never request credentials, payment, or remote access.
 - Do not diagnose a high-risk personal situation in comments.
 - Remove/report scams, impersonation, harassment, and exposed private data.
-- During Days 1–30, moderate and correct but do not count/code performance feedback.
+- During Days 1–30, moderate and correct as needed but do not count, code, log, or use performance feedback; the only recorded project datum is posted yes/no.

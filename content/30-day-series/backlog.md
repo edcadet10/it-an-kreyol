@@ -49,7 +49,7 @@ All items begin as `Briefed`. They are not `Ready` until direct sources, Kreyòl
 
 - [ ] Thirty items meet Definition of Ready before production authorization.
 - [ ] First seven meet Definition of Done before Day 1.
-- [ ] Each published URL and actual timestamp is recorded.
-- [ ] Every exception and correction is traceable.
+- [ ] Each planned day has only a posted yes/no flag during the challenge.
+- [ ] Corrections and exceptions are reconstructed only after Day 30 unless immediate containment requires a private record.
 - [ ] No audience analytics are added until E30 is public.
 - [ ] Gate 2 and Gate 3 decisions are documented.

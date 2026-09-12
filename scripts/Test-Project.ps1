@@ -92,11 +92,30 @@ if ($deliveryRows.Count -ne 30) {
     Add-ValidationError "Expected 30 delivery-log rows; found $($deliveryRows.Count)."
 }
 
+$expectedDeliveryColumns = @('episode_id', 'planned_day', 'planned_date', 'posted')
+if ($deliveryRows.Count -gt 0) {
+    $actualDeliveryColumns = @($deliveryRows[0].PSObject.Properties.Name)
+    if (($actualDeliveryColumns -join ',') -ne ($expectedDeliveryColumns -join ',')) {
+        Add-ValidationError "Delivery log must contain only: $($expectedDeliveryColumns -join ', ')."
+    }
+}
+
 $deliveryIds = @($deliveryRows | ForEach-Object { $_.episode_id })
+$launchDate = [datetime]'2026-10-12'
 foreach ($number in 1..30) {
     $expectedId = 'E{0:D2}' -f $number
     if ($expectedId -notin $deliveryIds) {
         Add-ValidationError "Delivery log is missing $expectedId."
+        continue
+    }
+
+    $row = $deliveryRows | Where-Object { $_.episode_id -eq $expectedId } | Select-Object -First 1
+    $expectedDate = $launchDate.AddDays($number - 1).ToString('yyyy-MM-dd')
+    if ($row.planned_day -ne [string]$number -or $row.planned_date -ne $expectedDate) {
+        Add-ValidationError "Delivery plan differs for ${expectedId}: expected day $number on $expectedDate."
+    }
+    if (-not [string]::IsNullOrWhiteSpace($row.posted) -and $row.posted -notmatch '^(?i:yes|no)$') {
+        Add-ValidationError "Delivery log posted value must be blank, yes, or no for $expectedId."
     }
 }
 
@@ -157,7 +176,7 @@ if ($errors.Count -gt 0) {
 
 Write-Host 'Project validation passed.' -ForegroundColor Green
 Write-Host " - 30 unique episode briefs (E01-E30)"
-Write-Host " - 30 delivery-log rows"
+Write-Host " - 30 posted-only delivery-control rows dated 2026-10-12 through 2026-11-10"
 Write-Host ' - Measurement log remains header-only'
 Write-Host " - $($markdownFiles.Count) Markdown files checked for local links"
 Write-Host " - $($textFiles.Count) text files checked for common secret patterns"

@@ -87,4 +87,4 @@ Before results are viewed, select a balanced six-video sample by fixed IDs: **E0
 
 ## PM lesson: curriculum as product scope
 
-The curriculum map describes learner capability, not merely 30 titles. That lets quality reviewers ask whether an episode contributes to an outcome and lets change control reject an exciting topic that would weaken the intended sequence.
+The curriculum map describes learner capability, not merely 30 titles. That lets the creator's quality review ask whether an episode contributes to an outcome and lets change control reject an exciting topic that would weaken the intended sequence.

@@ -41,5 +41,5 @@ Fictional message with generic brand, invented data, and no live link. Mark urge
 
 ## Review flags
 
-- Security reviewer approval required.
+- Creator security review approval required; hold the episode if the example or advice cannot be verified against current primary guidance.
 - Do not say spelling mistakes are required; AI-assisted scams may look polished.

@@ -38,4 +38,4 @@ What changed, what decision is needed, and what is the forecast?
 
 - ID / change / response:
 
-Do not include audience-performance data during challenge Days 1–30.
+During challenge Days 1–30, do not include audience, workflow, quality, timing, buffer, risk, correction, or exception data. The only reportable datum is the planned episode's posted yes/no flag.

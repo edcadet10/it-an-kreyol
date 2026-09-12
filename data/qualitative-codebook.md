@@ -18,6 +18,6 @@ Do not code or count audience comments until video 30 is public. Safety moderati
 
 - De-identify notes and do not quote a person publicly without permission.
 - One comment may receive multiple relevant codes; document that counts can overlap.
-- A second reviewer checks a small sample before strong qualitative claims.
+- Seek a second reviewer for a small sample before strong qualitative claims; if unavailable, label the qualitative finding exploratory and creator-coded.
 - Disagreement is resolved by discussion or reported as disagreement, not forced agreement.
 - Counts support interpretation; they do not turn comments into a representative survey.

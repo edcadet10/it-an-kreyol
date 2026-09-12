@@ -42,5 +42,5 @@ Four quick objects/icons: phone, app, Wi‑Fi/router, and a file/database. Join 
 
 ## Review flags
 
-- Human Kreyòl reviewer selects the most natural phrasing for `teknoloji enfòmasyon` versus familiar `IT/enfòmatik` usage.
+- Creator completes a separate Kreyòl wording pass for `teknoloji enfòmasyon` versus familiar `IT/enfòmatik` usage; hold the wording if it still feels unnatural.
 - Do not include salary or global-demand claims.

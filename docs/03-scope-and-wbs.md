@@ -26,7 +26,7 @@ The team performs:
 - curriculum architecture and episode research;
 - scripting, recording, editing, captioning, and QA;
 - publication and comment moderation;
-- delivery control during the challenge;
+- posted/not-posted control only during the challenge;
 - measurement, analysis, retrospective, and decision after Day 30;
 - repository maintenance and portfolio presentation.
 
@@ -57,7 +57,7 @@ The team performs:
   5.x.1 Script
   5.x.2 Record
   5.x.3 Edit and captions
-  5.x.4 Technical/language/safety QA
+  5.x.4 Creator technical/language/safety QA
   5.x.5 Schedule and publish
 6.0 Community and protection
   6.1 Comment moderation rules
@@ -85,11 +85,11 @@ The team performs:
 | 2.2 | Learner conversations | Creator | De-identified notes from five target learners; consent respected |
 | 2.3 | Search review | Creator | Dated list of relevant searches/content gaps; no private account data committed |
 | 3.2 | Episode briefs | Content owner | 30 briefs meet Definition of Ready |
-| 3.3 | Sources/terms | IT and Kreyòl reviewers | Every material claim sourced; disputed terms flagged and resolved or explained |
+| 3.3 | Sources/terms | Creator review owner | Every material claim sourced; disputed terms flagged and resolved or explained |
 | 4.2 | Workflow | Creator | One sample travels from brief to ready-to-post without an undocumented step |
 | 4.5 | Backup procedure | Creator | A second device/network/manual-post path is checked where practical |
-| 5.x | Episode increment | Creator and reviewers | Final file passes Definition of Done; publication URL recorded |
-| 6.2 | Corrections | Creator | Severity, action, date, and affected post recorded |
+| 5.x | Episode increment | Creator | Final file passes the creator's Definition of Done; only posted yes/no is recorded during Days 1–30 |
+| 6.2 | Corrections | Creator | Immediate protection when needed; project detail recorded only after the blackout unless containment requires otherwise |
 | 7.2 | Baseline snapshot | Analyst/creator | Snapshot collected only after E30 is public, with collection timestamp and exposure age |
 | 7.5 | Evaluation | Sponsor and creator | Findings, limits, lessons, and decision are documented |
 | 8.0 | Portfolio | Project manager | Public repo is navigable, current, and free of known secrets/private data |
@@ -104,7 +104,7 @@ The team performs:
 
 ## Acceptance and validation
 
-The sponsor accepts the release at Gate 2 based on delivery, sequence, quality evidence, and recorded exceptions. Audience value is validated separately at Gate 3. Keeping acceptance separate from benefit evaluation prevents the team from moving the goalposts after seeing results.
+The sponsor accepts the release at Gate 2 using the 30 posted/not-posted flags. Pre-launch quality evidence remains available, but challenge-period quality and exception evidence is deliberately absent under the sponsor's strict blackout. Audience value is evaluated separately at Gate 3, with that evidence limitation stated explicitly.
 
 ## PM lesson: why a WBS is deliverable-oriented
 

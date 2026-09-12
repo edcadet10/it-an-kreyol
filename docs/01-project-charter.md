@@ -2,9 +2,9 @@
 
 | Field | Value |
 |---|---|
-| Project | IT an Kreyòl |
-| Charter version | 0.1 |
-| Status | Draft for sponsor review |
+| Project | Teknoloji an Kreyòl |
+| Charter version | 0.2 |
+| Status | Draft; partial sponsor decisions recorded |
 | Date created | 2026-09-11 |
 | Sponsor / product owner | Project creator — name to confirm |
 | Project manager | Project creator, supported by an AI planning assistant |
@@ -27,10 +27,10 @@ Build a trusted Haitian Creole learning channel that helps beginners understand,
 
 ## 3. First-release objectives
 
-1. **Prepare:** Before Day 1, define all 30 learning objectives and have at least seven reviewed videos ready to post.
+1. **Prepare:** Before Day 1, define all 30 learning objectives and have at least seven creator-reviewed videos ready to post.
 2. **Deliver:** Publish one numbered video on each of 30 consecutive calendar days.
 3. **Protect quality:** Require every published video to pass the technical, language, accessibility, safety, and platform checks in the quality plan.
-4. **Preserve the experiment:** Do not inspect or use audience-performance analytics to alter the series during Days 1–30. Critical factual, privacy, copyright, or safety issues may always trigger correction.
+4. **Preserve the experiment:** During Days 1–30, record only whether the planned episode was posted. Do not collect audience, workflow, quality, timing, buffer, or exception data. Critical factual, privacy, copyright, or safety issues may always trigger action.
 5. **Evaluate:** Starting after video 30, collect comparable evidence, review comments and analytics, document lessons, and make a continue/adapt/pause decision.
 6. **Teach project management:** Maintain current baselines, registers, decision records, retrospectives, and final lessons in the repository.
 
@@ -82,8 +82,8 @@ See the controlled [scope and work breakdown structure](03-scope-and-wbs.md).
 | D1 | Approved management baseline | Charter, scope, roadmap, resources, risk, quality, and communications reviewed by sponsor |
 | D2 | 30-episode curriculum | Every item has one objective, audience value, source, CTA/check, and sequence number |
 | D3 | Production system | Templates, workflow, file naming, storage, review process, and backup method work on one sample video |
-| D4 | Ready buffer | At least seven complete and reviewed videos available before Day 1 |
-| D5 | 30-day series | Posts 01–30 published on 30 consecutive calendar days, or every exception recorded and recovered under the schedule plan |
+| D4 | Ready buffer | At least seven complete, creator-reviewed videos available before Day 1 |
+| D5 | 30-day series | One posted/not-posted flag for each planned day shows whether posts 01–30 were published October 12–November 10 |
 | D6 | Evaluation report | Post-Day-30 evidence, limitations, lessons, and a documented go/adapt/pause decision |
 | D7 | Portfolio repository | Public repository is navigable, contains no secrets/private data, and traces work to management artifacts |
 
@@ -92,17 +92,19 @@ See the controlled [scope and work breakdown structure](03-scope-and-wbs.md).
 ### Constraints
 
 - The release cadence is one video per calendar day for 30 days.
-- Audience-performance measurement is deferred until after video 30.
+- During Days 1–30, the only recorded project datum is whether the planned episode was posted.
+- Day 1 is October 12, 2026; Day 30 is November 10, 2026.
+- Creator capacity is limited to 8–12 hours per week.
 - The creator is provisionally treated as a solo core team.
 - TikTok is a third-party platform whose features and distribution may change.
 - The repository is public, so confidential or licensed source material cannot be stored there.
 
 ### Assumptions requiring confirmation
 
-- The initial audience is Haitian Creole-speaking beginners aged roughly 16+ in Haiti and the diaspora.
-- The creator can reserve the weekly capacity calculated from one complete sample episode plus contingency; the number of hours is still to be confirmed.
-- A smartphone, quiet recording location, light source, microphone or acceptable phone audio, and editing app are already available.
-- A trusted Kreyòl reviewer and an IT reviewer can provide timely feedback; one qualified person may fill both roles.
+- The selected audience boundary—Haitian Creole-speaking beginners aged roughly 16+ in Haiti and the diaspora—will prove useful enough to continue after Release 1.
+- The confirmed 8–12 hours per week can support the fixed date after a sample forecast and contingency are applied.
+- The Nikon Z50, laptop, professional lighting, and background can meet visual needs; audio, editing, storage, and backup remain to be tested.
+- Structured creator self-review can catch sufficient Kreyòl, technical, accessibility, privacy, and safety defects without independent approval.
 - The repo is intended to be public under the GitHub account `edcadet10`.
 
 All assumptions are tracked in [the assumptions and decisions log](11-assumptions-and-decisions.md).
@@ -112,26 +114,26 @@ All assumptions are tracked in [the assumptions and decisions log](11-assumption
 | Gate | Evidence required | Decision |
 |---|---|---|
 | G0 — Charter drafted | Project purpose, sponsor constraint, provisional scope | Continue planning |
-| G1 — Production authorized | Sponsor decisions closed, 30 briefs ready, first seven videos QA-passed, account ready | Start Day 1 |
-| G2 — Challenge complete | 30 numbered posts delivered; exceptions and corrections recorded | Begin measurement |
+| G1 — Launch authorized | Sponsor decisions closed, sample forecast fits, 30 briefs ready, first seven videos pass creator QA, account/backup ready | Start Day 1 on October 12 |
+| G2 — Challenge complete | 30 posted/not-posted flags evaluated after the November 10 post | Begin measurement November 11 |
 | G3 — Evidence review | Day-31 and follow-up data, qualitative coding, retrospective, limitations | Continue, adapt, pause, or close |
 
-Dates remain relative until the sponsor confirms capacity and a launch date. See the [roadmap](04-roadmap.md).
+The dated baseline and preparation windows are in the [roadmap](04-roadmap.md). A fixed date is a constraint, not proof of feasibility; Gate 1 can still hold the launch and require sponsor change control.
 
 ## 9. Governance and authority
 
 - The sponsor/product owner owns the vision, approves baselines, accepts risks, and has final publish authority.
 - The project manager maintains the plan and escalates material variance.
 - The AI assistant may research, draft, structure, check, and explain; it cannot approve accuracy, language, privacy, or publication on behalf of a human.
-- A Kreyòl reviewer approves naturalness, clarity, spelling, and caption accuracy.
-- An IT reviewer approves technical accuracy and safe demonstrations.
+- For Release 1, the creator performs separate Kreyòl/language and IT/source review passes and gives final approval.
+- No independent reviewer is assigned. That accepted choice remains a high residual risk rather than being represented as independent verification.
 - Any person may stop publication for a suspected critical privacy, security, copyright, or safety issue.
 
 A material change to audience, release objective, 30-day cadence, measurement blackout, budget ceiling, or safety rules requires a decision-log entry and sponsor approval.
 
 ## 10. Initial risks
 
-The leading threats are inaccurate terminology, technical misinformation, an unsustainable daily workflow, insufficient content buffer, platform dependence, accidental exposure of private data, and optimizing for visible engagement rather than learning value. Owners and responses are recorded in the [risk register](06-risk-register.md).
+The leading threats are inaccurate terminology, technical misinformation, creator self-review blind spots, an unvalidated 8–12-hour capacity forecast, the strict no-tracking blackout, insufficient content buffer, platform dependence, and accidental exposure of private data. Owners and responses are recorded in the [risk register](06-risk-register.md).
 
 ## 11. Benefits and success interpretation
 
@@ -142,11 +144,11 @@ Completing 30 posts alone does not prove audience fit. High view counts alone do
 ## 12. Sponsor review
 
 - [ ] Purpose accepted
-- [ ] Audience accepted or revised
+- [x] Audience accepted or revised
 - [ ] Scope accepted or revised
 - [ ] Capacity and cash constraints confirmed
-- [ ] Launch date confirmed
-- [ ] Roles accepted
+- [x] Launch date confirmed
+- [x] Roles accepted
 - [ ] Top risks accepted or changed
 - [ ] Gate 1 conditions accepted
 

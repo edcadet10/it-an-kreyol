@@ -49,7 +49,7 @@ Use one recall or application prompt aligned to the learning objective. Do not a
 
 ## Terminology questions
 
-| English/interface term | Candidate Kreyòl explanation | Reviewer decision |
+| English/interface term | Candidate Kreyòl explanation | Creator decision / optional advisor input |
 |---|---|---|
 | | | |
 
@@ -69,4 +69,4 @@ Use one recall or application prompt aligned to the learning objective. Do not a
 - [ ] Terminology questions visible
 - [ ] Hook, example, visual, and check aligned
 - [ ] Demo is safe and reproducible
-- [ ] Required reviewers identified
+- [ ] Creator language and technical review passes identified; optional advisor question flagged if needed

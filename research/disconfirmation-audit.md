@@ -41,7 +41,7 @@ A static audit can show that a plan is consistent; it cannot show that the plan 
 | Hypothesis | Evidence that would kill or narrow it | Cheapest permitted test | Status |
 |---|---|---|---|
 | The creator has enough capacity for the cadence | A sample-based forecast exceeds protected calendar capacity, or the first seven videos cannot pass QA before launch | Produce one end-to-end sample, forecast the remaining effort, then require seven approved videos at Gate 1 | Not run |
-| A seven-video launch buffer and four-video operating target are enough | The buffer repeatedly falls below four despite the planned capacity, or an ordinary interruption breaks the sequence | Track only workflow state and schedule exceptions during delivery | Not run |
+| A seven-video launch buffer is enough | The first seven cannot be ready by October 11, or the posted flags later show a broken sequence | Stress-test the buffer and capacity before launch; reconstruct only limited operating context after Day 30 | Not run |
 | The Kreyòl instruction is understandable and useful | The registered post-Day-30 learner test misses either comprehension or language threshold | Test a balanced six-video sample with at least five target learners after E30 is public | Not run |
 | Platform data can support the planned analysis | Required fields are unavailable or incomparable in the creator's account/region | Inventory actual TikTok Studio fields on Day 31 | Not run |
 

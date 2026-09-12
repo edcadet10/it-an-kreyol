@@ -4,7 +4,7 @@ This repository is both the plan and the classroom. Learn each concept, inspect 
 
 ## The mental model
 
-- A **product** creates ongoing value: the IT an Kreyòl learning experience and content library.
+- A **product** creates ongoing value: the Teknoloji an Kreyòl learning experience and content library.
 - A **project** creates or changes that product within a temporary effort: Release 1, the 30-day series.
 - **Operations** sustain it repeatedly: future weekly publishing, moderation, updates, and maintenance.
 - A **program** could later coordinate related projects: TikTok, a podcast, a website, workshops, and a glossary initiative.
@@ -19,7 +19,7 @@ This distinction matters because Release 1 should end with a decision and lesson
 | 2. Requirements and scope | What must be delivered, and what is excluded? | [Scope/WBS](03-scope-and-wbs.md) | Classify three new ideas as in scope, future backlog, or material change |
 | 3. Life cycle and tailoring | Which work should be planned and which discovered? | [Methodology](02-methodology.md) | Defend one predictive control and one adaptive practice |
 | 4. Schedule and dependencies | What must happen in what order? | [Roadmap](04-roadmap.md) | Trace the critical path for E17 and identify the effect of a late security review |
-| 5. Stakeholders and governance | Who affects value and who decides? | [Stakeholder plan](05-stakeholders-and-communications.md) | Explain why reviewer responsibility and sponsor accountability are different |
+| 5. Stakeholders and governance | Who affects value and who decides? | [Stakeholder plan](05-stakeholders-and-communications.md) | Explain the risk of one person owning both creator and review roles |
 | 6. Risk and issues | What uncertainty deserves action now? | [Risk register](06-risk-register.md) | Write one risk in cause → event → effect form and give it a trigger |
 | 7. Quality | What does “good” mean before work begins? | [Quality plan](07-quality-management.md) | Review a draft video against Definition of Done and classify one defect |
 | 8. Resources and cost | What capacity and assets constrain delivery? | [Resource plan](09-resources-and-budget.md) | Build a sample-based weekly capacity forecast |
@@ -50,7 +50,7 @@ Then compare your answers with the charter.
 
 ## Core controls, translated into plain language
 
-| PM term | Plain-language meaning | IT an Kreyòl example |
+| PM term | Plain-language meaning | Teknoloji an Kreyòl example |
 |---|---|---|
 | Business case | Why the effort is worth considering | Accessible IT learning plus portfolio value |
 | Charter | Permission and high-level boundaries | Authorizes Release 1 and names sponsor authority |
@@ -61,7 +61,7 @@ Then compare your answers with the charter.
 | Dependency | Work that relies on other work | Recording relies on resolved script terminology |
 | Critical path | Dependency chain that controls finish | Reviews through daily publication through Day 30 |
 | Stakeholder | Person/group that can affect or is affected | Learner, reviewer, sponsor, platform |
-| RACI | Clarifies doing, ownership, consultation, awareness | Reviewer is responsible for a check; sponsor owns publish decision |
+| RACI | Clarifies doing, ownership, consultation, awareness | Creator performs both review passes; sponsor owns publish decision |
 | Risk | Uncertain future condition | Buffer may collapse |
 | Issue | Problem that already occurred | Today's scheduled upload failed |
 | Mitigation | Reduces probability or impact before an event | Seven-video launch buffer |

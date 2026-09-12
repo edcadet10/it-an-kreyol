@@ -1,4 +1,4 @@
-# Contributing to IT an Kreyòl
+# Contributing to Teknoloji an Kreyòl
 
 Thank you for helping make technical education clearer and more useful in Haitian Creole.
 
@@ -30,7 +30,7 @@ Never paste a real password, token, private message, personal address, recovery 
 
 Haitian Creole usage can vary by speaker, region, discipline, and audience. Explain the context for a recommendation rather than declaring another speaker illegitimate. The project may retain an English technical term on screen while explaining it naturally in Kreyòl.
 
-The MIT-Haiti STEM glossary is a useful starting input and describes itself as dynamic rather than prescriptive. Reviewer disagreement is recorded when it affects meaning or trust.
+The MIT-Haiti STEM glossary is a useful starting input and describes itself as dynamic rather than prescriptive. Material disagreement is recorded when it affects meaning or trust.
 
 ## Technical contributions
 
@@ -48,7 +48,7 @@ The repository's long-term content/code license has not yet been selected. Until
 
 1. Triage against scope and severity.
 2. Verify the issue and source.
-3. Consult Kreyòl/technical reviewers as applicable.
+3. Complete creator review and consult an external contributor when available or necessary.
 4. Record a correction or decision.
 5. Update the brief, public content, or future backlog.
 6. Credit a contributor only with their permission.

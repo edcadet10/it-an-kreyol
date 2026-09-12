@@ -1,4 +1,4 @@
-term_id,english_or_interface_term,candidate_kreyol_explanation,episode_ids,source_or_usage_context,kreyol_reviewer,decision_status,decision_notes
+term_id,english_or_interface_term,candidate_kreyol_explanation,episode_ids,source_or_usage_context,creator_review_owner,decision_status,decision_notes
 T001,Information Technology,,E01,S01/S22,,Open,
 T002,hardware,,E02-E04,S02,,Open,
 T003,software,,E02-E06,S02/S03,,Open,

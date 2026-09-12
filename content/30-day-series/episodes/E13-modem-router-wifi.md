@@ -41,4 +41,4 @@ Simple home-path diagram with each segment lighting independently; photograph no
 
 ## Review flags
 
-- Technical reviewer must account for fiber ONTs, cellular hotspots, and combined gateway boxes; do not claim every setup has a classic modem.
+- Creator technical review must account for fiber ONTs, cellular hotspots, and combined gateway boxes; do not claim every setup has a classic modem.

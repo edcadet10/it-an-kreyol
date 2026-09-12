@@ -2,8 +2,9 @@
 
 **Candidate version:**
 **Review date:**
-**Kreyòl reviewer:**
-**IT reviewer:**
+**Language review owner:** Creator
+**Technical review owner:** Creator
+**Optional external advisor:**
 **Final approver:**
 
 ## Learning
@@ -44,6 +45,6 @@
 - [ ] Rework — return to: Script / Record / Edit
 - [ ] Hold — issue/risk ID:
 
-**Reviewer notes:**
+**Creator review notes:**
 
 **Approval timestamp/timezone:**

@@ -2,76 +2,76 @@
 
 ## Scheduling basis
 
-The sponsor has fixed the delivery cadence at one published video per calendar day for 30 consecutive days. The launch date remains open until Gate 1 because capacity and account readiness have not been confirmed. Relative dates avoid false precision.
+The sponsor fixed the delivery cadence at one published video per calendar day for 30 consecutive days and selected **October 12, 2026** as Day 1. Day 30 is **November 10, 2026**. The date is now a schedule baseline, but launch remains conditional on Gate 1 evidence; changing it requires sponsor-approved change control.
 
-Performance analytics are not reviewed during Days 1–30. Counting ready and published items is schedule control, not audience-performance measurement.
+During Days 1–30, the sponsor permits only one recorded control datum per planned episode: `posted = yes/no`. Audience metrics, workflow states, quality results, timestamps, URLs, buffer counts, exceptions, and retrospectives are not recorded during the challenge. Preparation evidence may be recorded before Day 1, and urgent safety action is never delayed.
 
 ## Roadmap
 
 | Period | Focus | Exit evidence |
 |---|---|---|
-| Preparation Week -3 | Confirm audience, capacity, account, identity, reviewers, and baselines | Sponsor decisions closed |
-| Preparation Week -2 | Complete research, terminology questions, and all 30 episode briefs | 30 items meet Definition of Ready |
-| Preparation Week -1 | Rehearse workflow; create and QA first seven videos; test backup path | Seven ready posts and Gate 1 approval |
-| Days 1–7 | Digital and computer foundations | E01–E07 published; buffer maintained |
-| Days 8–14 | Everyday troubleshooting and internet foundations | E08–E14 published; process retro only |
-| Days 15–21 | Networking and online services | E15–E21 published; risks reviewed |
-| Days 22–27 | Cyber hygiene and privacy | E22–E27 published; high-risk claims rechecked |
-| Days 28–30 | IT careers, next steps, and series close | E28–E30 published; Gate 2 held |
-| Day 31 | Measurement opens | Baseline snapshot with timestamps/exposure ages; qualitative review begins |
-| Days 32–37 | Evidence review | Feedback coded; claims checked; no raw-count ranking without exposure caveat |
-| Day 38 | Follow-up snapshot | Same-calendar-window increment recorded for all posts |
-| Day 39 target | Gate 3 | Continue/adapt/pause/close decision and next baseline |
+| Sep 12–20 | Close remaining tool/account/license decisions; run one end-to-end sample and capacity forecast | Toolchain known; forecast fits 8–12 hours/week or change raised |
+| Sep 21–27 | Resolve script/terminology dependencies and begin the first production batch | First batch advances through structured self-review |
+| Sep 28–Oct 4 | Produce, caption, and self-review the launch buffer; test backup publishing path | Buffer and backup evidence visible |
+| Oct 5–11 | Approve seven-video launch buffer; rehearse posting; hold Gate 1 | Seven ready posts and documented launch decision |
+| Oct 12–18 · Days 1–7 | Digital and computer foundations | Posted flag recorded for E01–E07 only |
+| Oct 19–25 · Days 8–14 | Troubleshooting and internet foundations | Posted flag recorded for E08–E14 only |
+| Oct 26–Nov 1 · Days 15–21 | Networking, online services, and first security lesson | Posted flag recorded for E15–E21 only |
+| Nov 2–8 · Days 22–28 | Cyber hygiene, privacy, and help desk | Posted flag recorded for E22–E28 only |
+| Nov 9–10 · Days 29–30 | Career map and series close | Posted flag recorded for E29–E30; Gate 2 held |
+| Nov 11 · Day 31 | Measurement opens | Baseline snapshot; permitted records and retrospective reconstruction begin |
+| Nov 12–17 · Days 32–37 | Evidence review | Feedback coded; claims checked; limitations documented |
+| Nov 18 · Day 38 | Follow-up snapshot | Same-calendar-window increment recorded for all posts |
+| Nov 19 · Day 39 target | Gate 3 | Continue/adapt/pause/close decision and next baseline |
 
 ## Thirty-day control pattern
 
-- Post the scheduled episode at the planned time; record the URL and actual time.
-- Keep at least four future episodes ready to post.
-- Replenish the buffer in two batch-production blocks each week.
-- Review only workflow, quality, risks, and schedule during the challenge.
-- Do not open analytics dashboards or compare public counters for optimization.
-- Moderate comments for safety and respect without counting engagement.
-- Log any factual correction, missed day, platform outage, or emergency change.
+- Post the scheduled episode and mark only `posted = yes` or `posted = no` for that episode/day.
+- Do not record actual time, URL, workflow state, buffer level, QA result, correction, exception, or audience counter.
+- Continue the fixed production and self-review procedure without turning its activity into a challenge-period dataset.
+- Do not open analytics dashboards or compare public counters.
+- Moderate and act on safety, privacy, harassment, scams, and material factual problems immediately; do not delay protection for experimental consistency.
+- Reconstruct only what can be supported after Day 30 and label memory gaps rather than inventing detail.
 
 ## Milestones
 
 | ID | Milestone | Target |
 |---|---|---|
-| M01 | Charter and baselines reviewed | End of Preparation Week -3 |
-| M02 | Thirty briefs Ready | End of Preparation Week -2 |
-| M03 | Seven-video launch buffer Ready | End of Preparation Week -1 |
-| M04 | Day 1 launched | Sponsor-selected date |
-| M05 | Ten posts published | Day 10 |
-| M06 | Twenty posts published | Day 20 |
-| M07 | Thirty posts published | Day 30 |
-| M08 | Baseline evidence captured | Day 31 |
-| M09 | Follow-up evidence captured | Day 38 |
-| M10 | Release decision documented | Day 39 target |
+| M01 | Remaining baselines and toolchain reviewed | 2026-09-20 |
+| M02 | Thirty briefs Ready | 2026-09-27 |
+| M03 | Seven-video launch buffer Ready | 2026-10-11 |
+| M04 | Day 1 launched | 2026-10-12 |
+| M05 | Ten posts published | 2026-10-21 |
+| M06 | Twenty posts published | 2026-10-31 |
+| M07 | Thirty posts published | 2026-11-10 |
+| M08 | Baseline evidence captured | 2026-11-11 |
+| M09 | Follow-up evidence captured | 2026-11-18 |
+| M10 | Release decision documented | 2026-11-19 target |
 
 ## Critical path
 
 For each episode:
 
-`objective → source/term resolution → script → review → record → edit/captions → QA → approve → publish`
+`objective → source/term resolution → script → creator review → record → edit/captions → creator QA → approve → publish`
 
 The release-level critical path is:
 
-`sponsor decisions → all briefs Ready → seven-video buffer → Day 1 → uninterrupted daily publication → Day 30 → measurement → Gate 3`
+`remaining sponsor decisions → capacity/toolchain sample → seven-video buffer → Gate 1 by Oct 11 → Day 1 on Oct 12 → uninterrupted daily publication → Day 30 on Nov 10 → measurement → Gate 3`
 
 A delay on this path changes the launch or breaks the consecutive-day objective. Work such as decorative repository polish is not allowed to delay critical-path content.
 
 ## Schedule variance rules
 
-- **Buffer 7–30:** Green.
-- **Buffer 4–6:** Amber; simplify visuals and prioritize replenishment.
-- **Buffer 2–3:** Red; activate contingency scripts and postpone noncritical work.
-- **Buffer 0–1:** Critical; sponsor decides whether to use an approved evergreen episode, shift the launch before Day 1, or record a schedule exception after launch.
+- **Before Day 1, buffer 7–30:** Gate condition satisfied.
+- **Before Day 1, buffer 4–6:** Gate condition failed; recover or approve a schedule change.
+- **Before Day 1, buffer 0–3:** Critical; do not launch without an explicit sponsor risk decision.
+- **During Days 1–30:** Buffer level is deliberately not recorded under the sponsor's strict blackout choice.
 
-If a post misses its calendar day, do not silently redefine “30 consecutive days.” Record the exception, cause, recovery action, and sponsor decision. Honest variance is more valuable than a cosmetically perfect report.
+If a post misses its calendar day, mark `posted = no`; do not silently redefine “30 consecutive days.” Cause and recovery detail are considered only after Day 30 because the chosen blackout prohibits challenge-period exception logging.
 
 ## Estimation approach
 
-The preparation cycle records active minutes by production step on sample videos solely to establish capacity before the public challenge. During Days 1–30, detailed time analysis is paused under the sponsor's measurement rule; the creator may still reserve production blocks and mark work complete.
+The preparation cycle records active minutes by production step on one sample solely to challenge whether the October 12 date fits the confirmed 8–12-hour weekly ceiling. During Days 1–30, time and process records are paused; only `posted = yes/no` is retained.
 
 After the challenge, estimates are compared with actual experience and updated for the next release.
 

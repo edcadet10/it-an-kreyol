@@ -11,8 +11,8 @@ Quality is designed into the workflow. It is not an inspection added after the c
 | Dimension | Standard | Verification |
 |---|---|---|
 | Learning | One observable objective; one idea; example and recall/application prompt align | Brief and final-cut review |
-| Technical accuracy | Material claims agree with current authoritative sources; limitations are not removed for brevity | Source check by IT reviewer |
-| Kreyòl clarity | Natural Haitian Creole, consistent spelling, understandable explanation; English term retained when useful | Human Kreyòl review |
+| Technical accuracy | Material claims agree with current authoritative sources; limitations are not removed for brevity | Separate creator source/accuracy pass |
+| Kreyòl clarity | Natural Haitian Creole, consistent spelling, understandable explanation; English term retained when useful | Separate creator language/caption pass |
 | Accessibility | Manually checked captions, legible contrast/size, adequate display time, key meaning not sound-only | Playback with sound off and on |
 | Safety/privacy | No real secrets, personal data, unsafe commands, or deceptive instructions | Frame-by-frame demo/privacy review |
 | Platform fit | Vertical, clear audio, key content inside safe viewing area, concise opening, complete caption copy | Device preview and upload preview |
@@ -21,6 +21,12 @@ Quality is designed into the workflow. It is not an inspection added after the c
 
 TikTok's creative guidance recommends a clear hook, key message, close/CTA, vertical presentation, safe-zone awareness, and captions. Much of that evidence is derived from advertising, so it is treated as a starting design constraint rather than proof of organic educational performance. We will test it after Day 30. See the [evidence register](../research/evidence-register.md).
 
+## Release 1 review model and limitation
+
+The sponsor selected creator-only review for Release 1. The creator therefore performs two distinct passes: first language/captions/accessibility, then technical claims/safety/privacy/rights. The final pass must occur after a break from editing when practical, with direct sources reopened for material claims.
+
+This is not independent verification. If the creator is unsure about a material technical, security, language, privacy, or rights issue, the episode is held rather than guessed. External corrections and advisory review remain welcome, but they are not a Gate 1 dependency under the selected baseline.
+
 ## Language and terminology policy
 
 1. Teach the concept, not a forced word-for-word translation.
@@ -28,23 +34,23 @@ TikTok's creative guidance recommends a clear hook, key message, close/CTA, vert
 3. Display the common English industry/interface term in parentheses when learners are likely to encounter it.
 4. Do not invent a translation silently. Flag uncertain terms in the terminology log.
 5. Use the MIT-Haiti STEM glossary as one input, not a final authority; it describes itself as dynamic and non-prescriptive.
-6. Record meaningful reviewer disagreement and the reason for the chosen wording.
+6. Record a material term decision and rationale when the creator is uncertain or when an external contributor offers a conflicting usage.
 7. Use audience questions after Day 30 to improve the glossary.
 
 Recommended on-screen pattern:
 
 > **Routeur (router):** aparèy ki dirije trafik ant rezo lakay ou ak entènèt la.
 
-The exact Kreyòl wording still requires human review.
+The creator must complete the separate language review pass; later learner and contributor feedback may challenge the wording after Day 30.
 
 ## Review levels
 
 | Content type | Required review |
 |---|---|
-| Everyday definitions and career overview | Creator self-check + Kreyòl review |
-| Device settings or troubleshooting | Kreyòl review + technical source check |
-| Passwords, MFA, phishing, privacy, malware, public Wi-Fi | Kreyòl review + explicit IT/security reviewer approval |
-| Commands, account changes, downloads, or demonstrations | Technical reviewer + sanitized test execution + privacy review |
+| Everyday definitions and career overview | Creator language pass + source/accuracy pass |
+| Device settings or troubleshooting | Creator language pass + direct-source check + safe reproduction or conceptual label |
+| Passwords, MFA, phishing, privacy, malware, public Wi-Fi | Two creator passes + current primary security source + conservative wording; hold if uncertain |
+| Commands, account changes, downloads, or demonstrations | Two creator passes + sanitized test execution + privacy check; do not publish if a safe test cannot be completed |
 
 ## Final quality checklist
 
@@ -62,11 +68,11 @@ The exact Kreyòl wording still requires human review.
 - [ ] Volatile UI/version statements include a check date.
 - [ ] Security advice uses current NIST/CISA/vendor primary guidance where relevant.
 - [ ] The demo was reproduced safely or labeled conceptual.
-- [ ] The reviewer checked what was omitted, not only what was said.
+- [ ] The creator's accuracy pass checked what was omitted, not only what was said.
 
 ### Language
 
-- [ ] A fluent Haitian Creole speaker reviewed the final wording.
+- [ ] The creator completed a separate language/caption review after drafting/editing.
 - [ ] On-screen Kreyòl matches spoken meaning.
 - [ ] English technical terms are spelled correctly and used consistently.
 - [ ] Any disputed term is in the terminology log.
@@ -86,24 +92,25 @@ The exact Kreyòl wording still requires human review.
 
 | Severity | Example | Response target |
 |---|---|---|
-| Critical | Exposed credential/private data; instruction likely to cause harm; malicious link | Hold/remove and contain immediately; notify sponsor/reviewer |
+| Critical | Exposed credential/private data; instruction likely to cause harm; malicious link | Hold/remove and contain immediately; notify the sponsor; seek outside expertise when needed |
 | High | Materially false security or technical claim | Correct, replace, or clearly annotate as soon as practical, target within 24 hours |
 | Medium | Explanation likely to confuse but not harm | Clarify in pinned response or future correction; update source artifact |
 | Low | Typo, styling inconsistency, nonmaterial wording | Backlog and correct in reusable assets |
 
-Deleting a post is not automatic for every defect. The sponsor weighs harm, clarity, preservation, and platform capabilities with the reviewers. The correction record must remain honest without preserving exposed secrets.
+Deleting a post is not automatic for every defect. The sponsor weighs harm, clarity, preservation, and platform capabilities; external advice is sought when available. The correction record must remain honest without preserving exposed secrets.
 
 ## Quality records
 
 - Episode brief and version
 - Source list with access dates
 - Terminology decisions
-- Reviewer names/roles or anonymized reviewer IDs
+- Creator language/technical review confirmation; optional external advisor identity only with permission
 - Checklist result and approval date
 - Final-file checksum or stable filename when practical
-- Public URL and publication time
-- Defects, corrections, and lessons
+- Before Day 1: checklist result, approval date, and any source/term decision
+- During Days 1–30: only the posted yes/no flag; no new QA, URL/time, defect, or correction record is retained under the sponsor's blackout choice
+- After Day 30: platform-recoverable URL/time, defects, corrections, and lessons, with missing-data limits stated
 
 ## PM lesson: quality assurance versus quality control
 
-Quality assurance improves the process—for example, requiring sources and reviewers before recording. Quality control inspects a specific output—for example, watching E17 with sound off to check captions. Both are needed; inspection alone makes every error expensive.
+Quality assurance improves the process—for example, requiring sources and a separate self-review pass before recording. Quality control inspects a specific output—for example, watching E17 with sound off to check captions. Both are needed; inspection alone makes every error expensive.

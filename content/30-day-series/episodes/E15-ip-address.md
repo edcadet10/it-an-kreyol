@@ -41,4 +41,4 @@ Use reserved example addresses such as `192.0.2.10` and `2001:db8::10`, subject 
 
 ## Review flags
 
-- Technical reviewer verifies reserved examples and avoids “every device has one unique public IP” language.
+- Creator technical review verifies reserved examples and avoids “every device has one unique public IP” language.

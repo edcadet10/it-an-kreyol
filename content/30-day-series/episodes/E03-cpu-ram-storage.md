@@ -41,5 +41,5 @@ Use a worker (`CPU`), a small worktable (`RAM`), and a cabinet (`storage`). Add 
 
 ## Review flags
 
-- Technical reviewer must check every analogy and remove “CPU is the brain” as an unqualified definition.
+- Creator technical review must check every analogy and remove “CPU is the brain” as an unqualified definition.
 - Do not promise that adding RAM or storage always makes a device faster.

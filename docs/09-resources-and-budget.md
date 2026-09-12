@@ -2,7 +2,7 @@
 
 ## Planning principle
 
-The first constraint is creator capacity, not cash. We will establish the time baseline from one end-to-end sample before choosing a launch date. Equipment purchases remain deferred until an observed quality or reliability gap justifies them.
+The first constraint is creator capacity, not cash. The sponsor has fixed October 12 as Day 1 and confirmed an 8–12-hour weekly range, so one end-to-end sample must now challenge whether that baseline is feasible. Equipment purchases remain deferred until an observed quality or reliability gap justifies them.
 
 ## Capacity baseline
 
@@ -11,8 +11,8 @@ Before Gate 1:
 1. Take one representative episode through research, script, review, record, edit, captions, QA, and scheduling.
 2. Record active minutes by step during preparation.
 3. Add 20% contingency for rework and interruptions.
-4. Multiply the resulting effort by seven to estimate a challenge week.
-5. Add weekly planning, risk review, file management, moderation, and buffer recovery.
+4. Compare the resulting effort with the 8–12 protected hours available each week and calculate what must be batched before Day 1.
+5. Add file management, moderation, and buffer recovery before launch; do not assume rest or outside obligations are spare capacity.
 6. Compare the forecast with hours the creator can truly protect.
 
 The launch is not authorized if required capacity exceeds available capacity and no ethical simplification closes the gap. Skipping technical, language, safety, privacy, or rights checks is not an acceptable simplification.
@@ -23,13 +23,14 @@ Detailed effort analysis is a preparation control. Audience-performance measurem
 
 | Resource | Minimum need | Current status | Gap action |
 |---|---|---|---|
-| Creator/presenter | Research, performance, production, publication | Available; capacity TBD | Confirm calendar blocks |
+| Creator/presenter | Research, performance, production, publication | Available; 8–12 hours/week confirmed | Reserve exact calendar blocks |
 | Sponsor/product owner | Decisions and risk acceptance | Same person provisionally | Reserve gate reviews |
-| Kreyòl reviewer | Naturalness, spelling, pronunciation, captions | Not named | Recruit before Gate 1 |
-| IT reviewer | Accuracy and demo safety | Not named | Recruit; prioritize E17–E27 security topics |
-| Smartphone/camera | Stable vertical HD recording | Inventory TBD | Test existing device first |
+| Creator language review | Naturalness, spelling, pronunciation, captions | Creator-only review selected | Use distinct language/caption pass; accept blind-spot risk |
+| Creator technical review | Accuracy and demo safety | Creator-only review selected | Use direct sources and a distinct accuracy/safety pass; hold uncertainty |
+| Camera | Stable vertical HD recording | Nikon Z50 available | Test vertical framing, autofocus, transfer, and storage workflow |
+| Computer | Editing, captions, file management | Laptop available | Confirm available storage and editor export workflow |
 | Audio | Intelligible speech in recording space | Inventory TBD | Test room/phone; buy only if failed |
-| Lighting/support | Consistent image and stable framing | Inventory TBD | Use daylight/simple stand first |
+| Lighting/background | Consistent image and stable framing | Professional lighting and background available | Test exposure, color, shadows, and framing |
 | Editing/captions | Vertical editing and manual caption correction | Tool TBD | Select and test one workflow |
 | Storage/backup | Working files plus a second recoverable copy | TBD | Define private local/cloud locations |
 | TikTok account | Secured public creator account | TBD | Enable MFA; confirm handle/profile |
@@ -47,7 +48,7 @@ Detailed effort analysis is a preparation control. Audience-performance measurem
 | Lighting/phone support/audio | $0 incremental | Purchase requires tested need, option comparison, and sponsor decision |
 | Music/stock assets | $0 | Use original or permitted/platform-cleared assets |
 | Paid promotion | $0 | Out of scope before Gate 3 |
-| Reviewer compensation | TBD | Agree expectations and rights before work |
+| External advisor compensation | $0 planned | No external reviewer is assigned for Release 1; agree expectations before accepting material assistance |
 | Contingency | TBD | Sponsor sets only after inventory/capacity review |
 
 If a purchase is proposed, record the problem, minimum requirement, options, full cost, expected benefit, privacy/lock-in risk, and decision. Recommendations that spend meaningful money require current source research and a small test where practical.
@@ -57,9 +58,9 @@ If a purchase is proposed, record the problem, minimum requirement, options, ful
 The creator will reserve, rather than merely hope for:
 
 - two recurring batch-production blocks each week;
-- one short weekly planning/risk block;
-- daily post verification and safety moderation time;
-- reviewer turnaround windows before scheduling;
+- one short weekly planning/risk block before launch;
+- daily posting and safety-moderation time; only the posted yes/no flag is recorded during the challenge;
+- a separate language/caption and accuracy/safety self-review pass before scheduling;
 - a recovery slot that is not already committed to normal production;
 - rest and personal boundaries.
 
@@ -82,9 +83,9 @@ Exact days and hours are entered only after sponsor confirmation.
 
 - Any cash spend above the approved ceiling requires sponsor approval and a decision record.
 - A forecast that consumes the ready buffer below four is a schedule risk even if no cash is spent.
-- Repeated unpaid reviewer work must be discussed openly; “free” labor still has a cost.
+- If external advisors later contribute, repeated unpaid work must be discussed openly; “free” labor still has a cost.
 - Creator health, sleep, primary employment, and family commitments are constraints, not invisible contingency reserves.
 
 ## PM lesson: budget includes more than money
 
-For a creator project, time, attention, reviewer availability, storage, rights, and emotional energy are resources. A zero-dollar plan can still be expensive. Resource planning makes those costs visible before the deadline makes the decision for you.
+For a creator project, time, attention, independent-review availability, storage, rights, and emotional energy are resources. A zero-dollar plan can still be expensive. Resource planning makes those costs visible before the deadline makes the decision for you.

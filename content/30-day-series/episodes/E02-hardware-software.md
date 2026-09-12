@@ -24,7 +24,7 @@ People often use “computer” for both the physical device and everything runn
 - Point to phone screen, camera, keyboard, or charger as physical examples.
 - Show an app icon and explain software as programs/instructions that direct the hardware.
 - Explain that neither category is useful alone: software needs hardware to run; hardware needs instructions to do useful work.
-- Keep the familiar English labels on screen and test natural Kreyòl explanations with the reviewer.
+- Keep the familiar English labels on screen and complete a separate creator Kreyòl-language pass for the explanations.
 
 ## Visual
 

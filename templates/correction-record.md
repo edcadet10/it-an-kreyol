@@ -26,7 +26,7 @@ State facts and separate them from assumptions. Do not reproduce a secret or pri
 
 - Source/evidence:
 - Action:
-- Reviewer:
+- Creator/advisor verification:
 - Verified at:
 
 ## Communication

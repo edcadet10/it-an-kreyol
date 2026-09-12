@@ -2,7 +2,7 @@
 
 **Checked:** 2026-09-11. Recheck volatile sources when scripting and before recording.
 
-Episode briefs use these IDs as starting evidence. A source ID does not approve a claim; the reviewer must open the source and check the exact wording in context.
+Episode briefs use these IDs as starting evidence. A source ID does not approve a claim; the creator must open the source and check the exact wording in context.
 
 | ID | Source | Primary use | Volatility |
 |---|---|---|---|

@@ -42,5 +42,5 @@ Three checks: correct network name, `https://` + real domain, updated device/MFA
 
 ## Review flags
 
-- Security reviewer must preserve the nuance; do not recycle older blanket guidance without date/context.
+- Creator security review must preserve the nuance; do not recycle older blanket guidance without date/context.
 - Do not endorse a VPN product or imply a VPN makes malicious sites safe.

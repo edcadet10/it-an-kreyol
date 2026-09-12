@@ -28,7 +28,7 @@ People may look only for a padlock or a familiar brand word anywhere in a long a
 
 ## Visual
 
-Large fictional URLs using `example.com` and a clearly marked deceptive-looking example under reviewer control. Do not display a live malicious domain.
+Large fictional URLs using `example.com` and a clearly marked deceptive-looking example under creator control. Do not display a live malicious domain.
 
 ## Knowledge check / CTA
 
@@ -42,5 +42,5 @@ Large fictional URLs using `example.com` and a clearly marked deceptive-looking 
 
 ## Review flags
 
-- Security reviewer must approve the URL-parsing wording and examples.
+- Creator security review must reopen the current source and approve the URL-parsing wording and examples; hold the episode if uncertain.
 - Do not imply HTTPS is unimportant; distinguish connection protection from site legitimacy.

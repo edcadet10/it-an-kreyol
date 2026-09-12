@@ -38,4 +38,5 @@ Include disconfirming evidence and conditions. A conditional pass needs named ow
 
 - Sponsor/product owner:
 - Project manager:
-- Reviewers consulted:
+- Creator review owner:
+- Optional external advisors consulted:

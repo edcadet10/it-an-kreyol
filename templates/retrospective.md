@@ -12,7 +12,7 @@ What did this period attempt to accomplish?
 
 ### During Days 1–30
 
-Use only delivery, workflow, quality, safety, risk, and schedule evidence. Do not add audience-performance analytics.
+Use only the 30 posted/not-posted flags. Do not add audience, workflow, quality, safety, risk, timing, buffer, or exception data. After Day 30, reconstruct only what is supported and label recall gaps.
 
 ### After Day 30
 

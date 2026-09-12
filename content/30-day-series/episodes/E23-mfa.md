@@ -41,5 +41,5 @@ Password barrier plus possession/biometric barrier. Do not show a real MFA seed,
 
 ## Review flags
 
-- Security reviewer must check current phishing-resistance terminology.
+- Creator security review must check current phishing-resistance terminology.
 - Do not rank methods beyond what the cited guidance directly supports.

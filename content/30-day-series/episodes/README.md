@@ -2,7 +2,7 @@
 
 These files define the intent and evidence for Release 1. They are **briefs, not approved scripts**. Each must pass Definition of Ready before scripting and Definition of Done before scheduling.
 
-The Kreyòl hook lines are voice drafts. A fluent Haitian Creole reviewer should make them sound like the creator—not merely correct spelling.
+The Kreyòl hook lines are voice drafts. The creator completes a separate language pass to make them sound natural rather than merely correct in spelling; sourced external feedback is welcome when available.
 
 ## Index
 
