@@ -25,7 +25,7 @@ This is a learning project, not a source of personalized legal, financial, medic
 - Performance-measurement status: **not started; blackout applies on challenge days 1–30**
 - License: not yet selected; until a license is added, reuse rights are not granted
 
-See the live [project status](PROJECT_STATUS.md) and [30-day roadmap](docs/04-roadmap.md).
+See the live [project status](PROJECT_STATUS.md), [30-day roadmap](docs/04-roadmap.md), [Release 1 milestone](https://github.com/edcadet10/it-an-kreyol/milestone/1), and [working issue backlog](https://github.com/edcadet10/it-an-kreyol/issues).
 
 ## Project map
 

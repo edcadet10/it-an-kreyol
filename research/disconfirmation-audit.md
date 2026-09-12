@@ -47,9 +47,23 @@ A static audit can show that a plan is consistent; it cannot show that the plan 
 
 The analytics blackout also has a real tradeoff: it protects the sponsor's fixed 30-day experiment from reactive optimization, but it delays learning about systematic audience misunderstandings. Safety, privacy, material factual errors, and delivery control remain exceptions because protecting people and the agreed output takes priority over experiment consistency.
 
+## Publication read-back
+
+The first GitHub issue read-back **failed** a presentation-integrity check. PowerShell interpreted Markdown escape characters in the generated episode-issue body and inserted `U+0008` before the word “briefed” in all 30 episode issues. The repository files and episode data were unaffected, but the live backlog did not meet the quality claim.
+
+All 30 bodies were regenerated without the unsafe escape sequence. A second full read-back found:
+
+- 36 open issues: 30 episode issues and 6 management/gate issues;
+- 30 of 30 episode issues linked to the corresponding brief;
+- 36 of 36 issues assigned to the Release 1 milestone;
+- 30 of 30 episode issues carrying the content label; and
+- zero disallowed control characters across all issue bodies.
+
+The GitHub Actions validation also completed successfully on the baseline commit. This incident narrows the publication claim: a successful API/CLI response is not sufficient verification of a rendered external artifact; read-back is required.
+
 ## Updated claim
 
-The repository **passed the static integrity audit** and is suitable to publish as an Amber planning baseline. It encodes the 30-video/30-day constraint and the delayed audience-measurement rule without claiming unearned success.
+After remediation, the repository **passed the static integrity audit and remote read-back** and was published as an Amber planning baseline. It encodes the 30-video/30-day constraint and the delayed audience-measurement rule without claiming unearned success.
 
 Production authorization still depends on Gate 1. Cadence feasibility, language fit, learner comprehension, audience demand, and repeatability remain unvalidated until their registered tests are run.
 

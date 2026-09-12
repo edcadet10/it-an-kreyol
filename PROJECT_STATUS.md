@@ -1,13 +1,13 @@
 # Project status
 
 **Status date:** 2026-09-11
-**Overall health:** Amber — the plan and repository are being established; audience, capacity, launch date, language-review support, and license are not yet confirmed.
+**Overall health:** Amber — the planning baseline and repository are established; audience, capacity, launch date, language-review support, and license are not yet confirmed.
 **Current phase:** Initiation and planning
 **Next gate:** Gate 1 — authorize production preparation
 
 ## Executive summary
 
-The sponsor has set the first release constraint: publish one IT lesson per day for 30 consecutive days, then begin performance measurement. The management system is being built around that constraint. No claim of audience fit or project success has been made.
+The sponsor has set the first release constraint: publish one IT lesson per day for 30 consecutive days, then begin performance measurement. The public planning baseline, 30 episode briefs, Release 1 milestone, and working issue backlog now implement that constraint. No claim of audience fit or project success has been made.
 
 ## Control dashboard
 
@@ -19,6 +19,7 @@ The sponsor has set the first release constraint: publish one IT lesson per day 
 | Quality | Amber | Definition of Ready/Done and review checklist drafted | Name language and technical reviewers |
 | Risk | Amber | Initial risk register created | Assign owners and review top risks |
 | Benefits | Gray | Measurement intentionally deferred | Begin analytics review after post 30 |
+| Portfolio controls | Green | Public baseline, milestone/backlog, disconfirmation audit, and passing automated validation | Preserve read-back and validation on changes |
 
 ## Stage-gate checklist
 
@@ -26,7 +27,7 @@ Gate 1 is passed when:
 
 - [ ] Sponsor confirms the primary audience.
 - [ ] Sponsor confirms a start date and a sustainable weekly time budget.
-- [ ] All 30 episode briefs have one learning objective and at least one credible source.
+- [x] All 30 episode briefs have one learning objective and at least one credible source.
 - [ ] The first seven videos pass quality review and are ready to post.
 - [ ] The account, profile, naming, and moderation settings are ready.
 - [ ] A backup publishing procedure is documented.
