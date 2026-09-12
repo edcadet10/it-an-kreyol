@@ -10,7 +10,7 @@ During Days 1–30, the sponsor permits only one recorded control datum per plan
 
 | Period | Focus | Exit evidence |
 |---|---|---|
-| Sep 12–20 | Close remaining tool/account/license decisions; run one end-to-end sample and capacity forecast | Toolchain known; forecast fits 8–12 hours/week or change raised |
+| Sep 12–20 | Close remaining editor/account/license decisions; run one end-to-end sample and capacity forecast | Editor/second backup known; forecast fits 8–12 hours/week or change raised |
 | Sep 21–27 | Resolve script/terminology dependencies and begin the first production batch | First batch advances through structured self-review |
 | Sep 28–Oct 4 | Produce, caption, and self-review the launch buffer; test backup publishing path | Buffer and backup evidence visible |
 | Oct 5–11 | Approve seven-video launch buffer; rehearse posting; hold Gate 1 | Seven ready posts and documented launch decision |

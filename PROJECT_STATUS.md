@@ -1,7 +1,7 @@
 # Project status
 
 **Status date:** 2026-09-11
-**Overall health:** Amber — the audience, capacity range, equipment inventory, review model, name, and launch date are decided; production feasibility, audio/editor/storage, account readiness, backup path, and license remain open.
+**Overall health:** Amber — the audience, capacity range, equipment inventory, review model, name, and launch date are decided; production feasibility, editing workflow, account readiness, second backup path, and license remain open.
 **Current phase:** Planning and production preparation
 **Next gate:** Gate 1 — authorize the October 12 launch
 
@@ -15,7 +15,7 @@ The sponsor selected Haitian Creole-speaking beginners aged roughly 16+ in Haiti
 |---|---|---|---|
 | Scope | Amber | Audience and working name confirmed; charter boundaries still awaiting formal acceptance | Accept or revise the charter and scope |
 | Schedule | Amber | October 12–November 10 baseline; 8–12 hours/week confirmed | Run the sample forecast and protect calendar blocks |
-| Cost | Amber | Existing camera/laptop/lighting/background; zero-cash assumption remains provisional | Confirm audio, editor, storage, backup, and cash ceiling |
+| Cost | Amber | Existing camera/laptop/microphone/lighting/background/external drive; zero-cash assumption remains provisional | Confirm editor, working-file workflow, second backup, and cash ceiling |
 | Quality | Amber | Creator self-review selected; no independent reviewer | Test the two-pass self-review on one complete sample |
 | Risk | Amber | Strict no-tracking and self-review risks recorded | Sponsor accepts residual risks at Gate 1 |
 | Benefits | Gray | Measurement intentionally deferred | Begin analytics review after post 30 |
@@ -38,7 +38,7 @@ Gate 1 is passed when:
 ## Decisions needed from the sponsor
 
 1. Choose the exact TikTok handle and confirm whether the account already exists.
-2. Identify the microphone/audio path, editing software, working storage, and backup location.
+2. Choose editing software, define the external drive's working-file role, and name a second backup location.
 3. Reserve specific production blocks inside the 8–12-hour weekly capacity.
 4. Confirm a cash ceiling for Release 1.
 5. Decide whether the educational materials will later receive an open license.

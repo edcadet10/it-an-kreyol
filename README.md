@@ -22,7 +22,7 @@ This is a learning project, not a source of personalized legal, financial, medic
 - Release target: October 12–November 10, 2026; 30 videos on 30 consecutive days
 - Audience baseline: Haitian Creole-speaking beginners aged roughly 16+, in Haiti and the diaspora
 - Creator capacity: 8–12 hours per week; sample-based feasibility test still pending
-- Production inventory: Nikon Z50, laptop, professional lighting, and background; audio/editor/storage path still pending
+- Production inventory: Nikon Z50, laptop, microphone, professional lighting, background, and external drive; editor and second backup location still pending
 - Review model: structured creator self-review for Release 1; no independent approval role
 - Delivery approach: stage-gated project governance with a Kanban content-production flow
 - Measurement status: **not started; only a binary posted flag may be recorded on challenge Days 1–30**

@@ -103,7 +103,7 @@ See the controlled [scope and work breakdown structure](03-scope-and-wbs.md).
 
 - The selected audience boundary—Haitian Creole-speaking beginners aged roughly 16+ in Haiti and the diaspora—will prove useful enough to continue after Release 1.
 - The confirmed 8–12 hours per week can support the fixed date after a sample forecast and contingency are applied.
-- The Nikon Z50, laptop, professional lighting, and background can meet visual needs; audio, editing, storage, and backup remain to be tested.
+- The Nikon Z50, laptop, microphone, professional lighting, background, and external drive can meet basic production needs; editing workflow and a separate backup remain to be tested.
 - Structured creator self-review can catch sufficient Kreyòl, technical, accessibility, privacy, and safety defects without independent approval.
 - The repo is intended to be public under the GitHub account `edcadet10`.
 

@@ -29,10 +29,10 @@ Detailed effort analysis is a preparation control. Audience-performance measurem
 | Creator technical review | Accuracy and demo safety | Creator-only review selected | Use direct sources and a distinct accuracy/safety pass; hold uncertainty |
 | Camera | Stable vertical HD recording | Nikon Z50 available | Test vertical framing, autofocus, transfer, and storage workflow |
 | Computer | Editing, captions, file management | Laptop available | Confirm available storage and editor export workflow |
-| Audio | Intelligible speech in recording space | Inventory TBD | Test room/phone; buy only if failed |
+| Audio | Intelligible speech in recording space | Microphone available; model/connection/room test pending | Test the existing microphone before considering any purchase |
 | Lighting/background | Consistent image and stable framing | Professional lighting and background available | Test exposure, color, shadows, and framing |
-| Editing/captions | Vertical editing and manual caption correction | Tool TBD | Select and test one workflow |
-| Storage/backup | Working files plus a second recoverable copy | TBD | Define private local/cloud locations |
+| Editing/captions | Vertical editing and manual caption correction | No editing experience; tool not selected | Select one beginner workflow and test it on the sample |
+| Storage/backup | Working files plus a second recoverable copy | External drive available; second backup location TBD | Define working-drive structure and a separate recoverable copy |
 | TikTok account | Secured public creator account | TBD | Enable MFA; confirm handle/profile |
 | Git/GitHub | Versioned public portfolio | Available | Keep private/raw data excluded |
 | Research access | Authoritative web sources | Available | Save citations and access dates |
