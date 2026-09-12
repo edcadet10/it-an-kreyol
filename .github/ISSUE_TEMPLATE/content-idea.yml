@@ -1,0 +1,46 @@
+name: Content idea
+description: Propose a learner problem or future episode.
+title: "[IDEA] "
+labels:
+  - type: content
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Release 1 has a controlled 30-topic sequence. New ideas normally enter a future backlog. Do not include personal account information.
+  - type: textarea
+    id: audience_problem
+    attributes:
+      label: Learner problem
+      description: Who needs help with what, and in which context?
+    validations:
+      required: true
+  - type: textarea
+    id: objective
+    attributes:
+      label: One learning objective
+      description: Complete “After this, the learner can...” with an observable action.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Concrete example or safe demonstration
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Primary or authoritative sources
+      description: Add direct links and explain which claim each supports.
+  - type: textarea
+    id: terms
+    attributes:
+      label: Kreyòl or technical terminology questions
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Safety check
+      options:
+        - label: I removed passwords, codes, private messages, personal addresses, and other sensitive information.
+          required: true

@@ -1,0 +1,47 @@
+name: Project risk or opportunity
+description: Record an uncertain event that could affect an objective.
+title: "[RISK] "
+labels:
+  - pm: risk
+body:
+  - type: textarea
+    id: statement
+    attributes:
+      label: Cause → event → effect
+      description: “Because..., there is a possibility that..., causing...”
+    validations:
+      required: true
+  - type: dropdown
+    id: probability
+    attributes:
+      label: Probability
+      options:
+        - 1 — Rare
+        - 2 — Unlikely
+        - 3 — Possible
+        - 4 — Likely
+        - 5 — Almost certain
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: Impact
+      options:
+        - 1 — Negligible
+        - 2 — Small
+        - 3 — Meaningful
+        - 4 — Release or trust threatened
+        - 5 — Severe safety/privacy/account/release effect
+    validations:
+      required: true
+  - type: textarea
+    id: response
+    attributes:
+      label: Proposed response, owner, and trigger
+    validations:
+      required: true
+  - type: textarea
+    id: disconfirm
+    attributes:
+      label: What evidence would show this estimate or response is wrong?

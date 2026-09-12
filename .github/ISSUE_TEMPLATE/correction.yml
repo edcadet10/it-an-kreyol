@@ -1,0 +1,67 @@
+name: Correction or quality concern
+description: Report a factual, language, accessibility, safety, privacy, or rights concern.
+title: "[CORRECTION] "
+labels:
+  - type: correction
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For an exposed secret or immediate safety/privacy issue, do not repeat it here. Use a private maintainer contact route first.
+  - type: input
+    id: episode
+    attributes:
+      label: Episode ID or file
+      placeholder: E17 or path/to/file.md
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Technical accuracy
+        - Haitian Creole language
+        - Accessibility
+        - Safety or security
+        - Privacy
+        - Copyright or rights
+        - Broken source or repository quality
+    validations:
+      required: true
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: Possible urgency
+      options:
+        - Critical — immediate harm/exposure may be occurring
+        - High — materially wrong or risky
+        - Medium — likely confusion or meaningful quality issue
+        - Low — typo, style, or minor maintenance
+    validations:
+      required: true
+  - type: textarea
+    id: observation
+    attributes:
+      label: What did you observe?
+      description: Identify exact wording/time without pasting sensitive data.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction and context
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: Add a direct primary/authoritative link or explain linguistic usage context.
+  - type: checkboxes
+    id: scrubbed
+    attributes:
+      label: Privacy confirmation
+      options:
+        - label: This report does not reproduce a secret, credential, private message, or unnecessary personal data.
+          required: true
